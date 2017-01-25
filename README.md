@@ -38,6 +38,8 @@
 
 ## Introduction
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/obj-search.svg)](https://greenkeeper.io/)
+
 Get a property from an object using dot path or Regexp.
 
 ## Install
