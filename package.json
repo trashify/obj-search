@@ -1,0 +1,26 @@
+{
+  "name": "obj-search",
+  "version": "1.0.0",
+  "description": "Get a property from an object using dot path or Regexp",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:tiaanduplessis/obj-search.git",
+    "type": "git"
+  },
+  "author": "Tiaan <tiaanduplessis@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dot-prop": "^4.1.0",
+    "query-json": "^2.0.1",
+    "type-detect": "^4.0.0"
+  },
+  "scripts": {
+    "test": "standard && ava",
+    "lint": "standard --fix",
+    "dev": "npm test -- --watch"
+  },
+  "devDependencies": {
+    "ava": "~0.17.0",
+    "standard": "^8.6.0"
+  }
+}
