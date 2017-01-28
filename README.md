@@ -87,7 +87,7 @@ console.log(objSearch(nestedObject, /foo/)) // [ { bar: { baz: 'Hai', foo: 'Hi' 
 
 ## OSS
 
-pomd is made possible through Open Source Software. A very special thanks to all the [modules used](package.json).
+obj-search is made possible through Open Source Software. A very special thanks to all the [modules used](package.json).
 
 ## Contributing
 
