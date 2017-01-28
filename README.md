@@ -18,7 +18,6 @@
    <a href="https://greenkeeper.io/">
       <img src="https://badges.greenkeeper.io/tiaanduplessis/obj-search.svg?style=flat-square" alt="Greenkeeper" />
    </a>
-  </div>
 </div>
 <br>
 <div align="center">
