@@ -65,7 +65,7 @@ An example of usage:
 
 ```js
 
-const objSearch = require('./index')
+const objSearch = require('obj-search')
 const nestedObject = {
   foo: {
     bar: {
