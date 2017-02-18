@@ -20,7 +20,7 @@
     "dev": "npm test -- --watch"
   },
   "devDependencies": {
-    "ava": "~0.17.0",
+    "ava": "~0.18.2",
     "standard": "^8.6.0"
   }
 }
