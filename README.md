@@ -1,5 +1,6 @@
+<h1 align="center">🔎 obj-search</h1>
 <div align="center">
-  <strong>🔎 obj-search</strong>
+  <strong>Get a property from an object using dot path or Regexp.</strong>
 </div>
 <br>
 <div align="center">
@@ -15,9 +16,15 @@
     <a href="https://badge.fury.io/gh/tiaanduplessis%2Fobj-search">
       <img src="https://badge.fury.io/gh/tiaanduplessis%2Fobj-search.svg?style=flat-square" alt="GitHub version" />
    </a>
-   <a href="https://greenkeeper.io/">
-      <img src="https://badges.greenkeeper.io/tiaanduplessis/obj-search.svg?style=flat-square" alt="Greenkeeper" />
-   </a>
+   <a href="https://github.com/tiaanduplessis/obj-search/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/l/obj-search.svg?style=flat-square" alt="License" />
+  </a>
+  <a href="http://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs" />
+  </a>
+  <a href="https://www.paypal.me/tiaanduplessis/1">
+    <img src="https://img.shields.io/badge/$-support-green.svg?style=flat-square" alt="Donate" />
+  </a>
 </div>
 <br>
 <div align="center">
@@ -27,17 +34,12 @@
 <h2>Table of Contents</h2>
 <details>
   <summary>Table of Contents</summary>
-  <li><a href="#introduction">Introduction</a></li>
   <li><a href="#install">Install</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#oss">OSS</a></li>
   <li><a href="#contribute">Contribute</a></li>
   <li><a href="#license">License</a></li>
 </details>
-
-## Introduction
-
-Get a property from an object using dot path or Regexp.
 
 ## Install
 
