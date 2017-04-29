@@ -15,12 +15,14 @@
     "type-detect": "^4.0.0"
   },
   "scripts": {
-    "test": "standard && ava",
-    "lint": "standard --fix",
+    "pretest": "npm run lint",
+    "test": "ava",
+    "lint": "standard",
+    "lint:fix": "standard --fix",
     "dev": "npm test -- --watch"
   },
   "devDependencies": {
-    "ava": "~0.17.0",
-    "standard": "^8.6.0"
+    "ava": "~0.19.1",
+    "standard": "^10.0.2"
   }
 }
